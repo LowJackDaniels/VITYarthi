@@ -6,6 +6,7 @@ Reg No. : 22BCE10582
 
 # Module Summaries:
 
+report: Project Report (as Project_Report.docx)\
 task-1-presentation: Canva link (in presentationLink.txt)\
 task-2-portfolio: Screenshots of profiles set up\
 task-3-platforms: Platform screenshots\
